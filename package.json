@@ -1,0 +1,22 @@
+{
+  "name": "geolocalizacionow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mantecorso/geolocalizacionow.git"
+  },
+  "author": "Luis Jurado Quesada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mantecorso/geolocalizacionow/issues"
+  },
+  "homepage": "https://github.com/Mantecorso/geolocalizacionow#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
