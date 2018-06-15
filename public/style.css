@@ -7,6 +7,16 @@ header {
 section {
     background-color: paleturquoise;
     height: 80vh;
+    text-align: center;
+}
+
+.geolocalizacion {
+    height: 200px;
+    width: 300px;
+}
+
+#imagen {
+    border-radius: 15px;
 }
 
 footer {
