@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+    background-color: palevioletred;
+    height: 10vh;
+}
+
+section {
+    background-color: paleturquoise;
+    height: 80vh;
+}
+
+footer {
+    background-color: palegoldenrod;
+    height: 10vh;
+}
