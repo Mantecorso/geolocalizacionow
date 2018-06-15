@@ -7,7 +7,7 @@ if("geolocation" in navigator) {
         var element = document.createElement('img');
     element.setAttribute('src', "http://maps.googleapis.com/maps/api/staticmap?markers=icon:%7C" + position.coords.latitude + ","+ position.coords.longitude + "&zoom=13&size=400x400&sensor=false");
     //crea una imagen
-    var doce = document.getElementById("#imagen");
+    var doce = document.getElementById("imagen");
     //identifica el div con id = imagen
     document.body.insertBefore(element, doce);
     //pone la imagen en el div
